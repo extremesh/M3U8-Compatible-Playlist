@@ -6,9 +6,10 @@ This template / format should help with creating a single M3U8 playlist which wo
 ( Usage )
 ______________________________________________________________
 
-** refer sample playlist file skeleton.m3u8
-** replace tags in [] as needed.
+-> refer sample playlist file skeleton.m3u8
 
-** need help? reach me on discord https://discord.com/invite/YsMcCRhKBp
+-> replace tags in [] as needed.
+
+-> need help? reach me on discord https://discord.com/invite/YsMcCRhKBp
 
 
