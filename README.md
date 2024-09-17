@@ -8,3 +8,7 @@ ______________________________________________________________
 
 ** refer sample playlist file skeleton.m3u8
 ** replace tags in [] as needed.
+
+** need help? reach me on discord https://discord.com/invite/YsMcCRhKBp
+
+
