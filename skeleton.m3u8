@@ -1,0 +1,5 @@
+#EXTINF:0 group-title="[title-here]" tvg-logo="[logo-here]", [stream-name]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://[stream-url-here]
